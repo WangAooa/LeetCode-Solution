@@ -2,6 +2,7 @@ package com.leetcode.editor.cn;
 
 public class offer58 {
     class Solution {
+        //test
         public String reverseLeftWords(String s, int n) {
             StringBuilder result = new StringBuilder();
             int max = n + s.length();
